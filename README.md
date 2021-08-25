@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pascual
-- 👀 Interested in machine learning and applications to healthcare
+- 👀 Interested in machine learning and statistical analysis applications in technology
 - 🌱 MS at Stanford University
 - 📫 ecam@stanford.edu
 
