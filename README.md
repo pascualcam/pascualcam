@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Pascual
-- 👀 Interested in machine learning and statistical analysis applications in technology
-- 🌱 MS at Stanford University
-- 📫 ecam@stanford.edu
+- I'm a multi-faceted engineer based in Palo Alto, California 🌁
+- 👀 Interested in machine learning and statistical analysis applications to technology
+- 🌲 Engineering MS at Stanford University
+- 📩 ecam@stanford.edu
 
 <!---
 pascualcam/pascualcam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
