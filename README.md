@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Pascual, I'm a multi-faceted engineer based in Palo Alto, California 🌁
+- 👋 Hi, I’m Pascual, a multi-faceted engineer based in Palo Alto, California 🌁
 - 👀 Interested in machine learning and statistical analysis applications to technology
 - 🌲 Engineering MS at Stanford University
 - 📩 ecam@stanford.edu
+- Speaks: 🇪🇸🇬🇧🇮🇹
 
 <!---
 pascualcam/pascualcam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
