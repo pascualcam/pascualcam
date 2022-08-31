@@ -1,6 +1,6 @@
-- 👋  Hi, I’m Pascual, a multi-faceted engineer based in Palo Alto, California 🌁
-- 👀  Interested in machine learning and statistical analysis applications to technology
-- 🌲  Engineering MS at Stanford University
+- 👋  Hi, I’m Pascual, based in San Francisco, California 🌁
+- 👀  Interested in data engineering
+- 🌲  Engineering MS at Stanford University, previously health tech founder
 - 📩  ecam@stanford.edu
 
 
