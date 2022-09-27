@@ -1,7 +1,7 @@
-- 👋  Hi, I’m Pascual, based in San Francisco, California 🌁
-- 👀  Data Scientist & Engineer
-- 🌲  Engineering MS at Stanford University, previously health tech founder
-- 📩  ecam@stanford.edu
+🌁  Hi, I’m Pascual, based in San Francisco, California 
+🧑🏻‍💻  Data Scientist & Engineer
+🌲  Engineering MS at Stanford University, previously health tech founder
+📮  ecam@stanford.edu
 
 
 <!---
