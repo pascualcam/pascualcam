@@ -1,8 +1,36 @@
-.content {
-    background-color: #000;
+
+
+.name-title {
+    color: #34435E;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.text {
-    background-color: "dark-grey";
-    color: #fff;
+.nav-container {
+    display: flex;
+    background-color: white;
+}
+
+.nav-list {
+    color: #34435E;
+    list-style-type: none;
+}
+
+.nav-item {
+    display: flex;
+    text-decoration: underline;
+    color: #34435E;
+    list-style-type: none;
+}
+
+.nav-item:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.nav-item:active {
+    color: green;
+}
+
+.nav-item::after {
+    color:yellow;
 }
