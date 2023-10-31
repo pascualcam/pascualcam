@@ -1,6 +1,6 @@
 - 🌁  Hi, I’m Pascual, based in San Francisco, California 
-- 🧑🏻‍💻  Data Engineer
-- 🌲  MS from Stanford, previously health tech founder
+- 🧑🏻‍💻  Data Scientist and Engineer
+- 🌲  Stanford MS, previously health tech founder
 - 📮  ecam@stanford.edu
 - CV  [read.cv/ecam](https://read.cv/ecam)
 
