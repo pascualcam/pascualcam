@@ -9,6 +9,6 @@
 
 <style>
   a {
-    text-decorator: none
+    text-decoration: none
   }
 </style>
