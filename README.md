@@ -1,2 +1,2 @@
 Hi, I'm Pascual 🙂\
-Data Scientist, prev founder
+Data Scientist and Developer, prev founder
