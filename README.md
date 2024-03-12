@@ -1,2 +1,1 @@
-Hi, I'm Pascual 🙂\
-Data Scientist and Developer, prev founder
+Hi, I'm Pascual 🙂
